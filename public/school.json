@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "students": 200,
+        "teachers": 20,
+        "establishedYear": 1995,
+        "schoolName": "ABC School",
+        "image": "https://png.pngtree.com/png-clipart/20211009/original/pngtree-school-logo-png-image_6846798.png"
+    },
+    {
+        "id": 2,
+        "students": 300,
+        "teachers": 30,
+        "establishedYear": 1980,
+        "schoolName": "XYZ School",
+        "image": "https://png.pngtree.com/png-clipart/20211009/original/pngtree-school-logo-shield-png-image_6844986.png"
+    },
+    {
+        "id": 3,
+        "students": 400,
+        "teachers": 40,
+        "establishedYear": 2000,
+        "schoolName": "123 School",
+        "image": "https://png.pngtree.com/png-clipart/20230105/original/pngtree-school-logo-design-vector-image-png-image_8873844.png"
+    },
+    {
+        "id": 4,
+        "students": 500,
+        "teachers": 50,
+        "establishedYear": 1975,
+        "schoolName": "PQR School",
+        "image": "https://png.pngtree.com/png-clipart/20230217/original/pngtree-school-logo-and-education-png-image_8957427.png"
+    },
+    {
+        "id": 5,
+        "students": 600,
+        "teachers": 60,
+        "establishedYear": 1990,
+        "schoolName": "LMN School",
+        "image": "https://png.pngtree.com/png-clipart/20211116/original/pngtree-nature-school-logo-png-image_6931972.png"
+    },
+    {
+        "id": 6,
+        "students": 700,
+        "teachers": 70,
+        "establishedYear": 1985,
+        "schoolName": "DEF School",
+        "image": "https://png.pngtree.com/png-clipart/20200727/original/pngtree-pharmacy-school-logo-design-template-png-image_5069481.jpg"
+    },
+    {
+        "id": 7,
+        "students": 800,
+        "teachers": 80,
+        "establishedYear": 1970,
+        "schoolName": "GHI School",
+        "image": "https://png.pngtree.com/png-clipart/20200727/original/pngtree-pharmacy-school-logo-design-template-png-image_5069481.jpg"
+    },
+    {
+        "id": 8,
+        "students": 900,
+        "teachers": 90,
+        "establishedYear": 2005,
+        "schoolName": "JKL School",
+        "image": "https://png.pngtree.com/png-clipart/20200727/original/pngtree-pharmacy-school-logo-design-template-png-image_5069481.jpg"
+    },
+    {
+        "id": 9,
+        "students": 1000,
+        "teachers": 100,
+        "establishedYear": 1998,
+        "schoolName": "MNO School",
+        "image": "https://png.pngtree.com/png-clipart/20211116/original/pngtree-nature-school-logo-png-image_6931972.png"
+    },
+    {
+        "id": 10,
+        "students": 1100,
+        "teachers": 110,
+        "establishedYear": 1978,
+        "schoolName": "RST School",
+        "image": "https://png.pngtree.com/png-clipart/20211116/original/pngtree-nature-school-logo-png-image_6931972.png"
+    },
+    {
+        "id": 11,
+        "students": 1200,
+        "teachers": 120,
+        "establishedYear": 2002,
+        "schoolName": "UVW School",
+        "image": "https://png.pngtree.com/png-clipart/20211009/original/pngtree-school-logo-png-image_6846798.png"
+    },
+    {
+        "id": 12,
+        "students": 1300,
+        "teachers": 130,
+        "establishedYear": 1992,
+        "schoolName": "EFG School",
+        "image": "https://png.pngtree.com/png-clipart/20211009/original/pngtree-school-logo-png-image_6846798.png"
+    }
+]
