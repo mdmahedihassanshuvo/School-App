@@ -11,6 +11,8 @@ import Home from './components/Home/Home';
 import About from './components/About/About';
 import Login from './components/Login/Login';
 import Schools from './components/Schools/Schools';
+import AddToApply from './components/AddToApply/AddToApply';
+import ApplyDetails from './components/ApplyDetails/ApplyDetails';
 
 const router = createBrowserRouter([
   {
@@ -23,7 +25,8 @@ const router = createBrowserRouter([
       },
       {
         path: '/school',
-        element: <Schools></Schools>
+        element: <Schools></Schools>,
+        loader: ()=> fetch('schools.json')
       },
       {
         path: '/about',
@@ -32,10 +35,16 @@ const router = createBrowserRouter([
       {
         path: '/login',
         element: <Login></Login>
-      }
+      },
+      // {
+      //   path: '/apply/details',
+      //   element: <ApplyDetails></ApplyDetails>
+      // }
     ]
   },
 ]);
+
+// const passData = 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>

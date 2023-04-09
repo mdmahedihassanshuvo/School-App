@@ -7,7 +7,7 @@ const Header = () => {
     const [open, setOpen] = useState(false)
 
     return (
-        <div className='flex md:items-center text-right justify-end md:justify-between bg-gray-800 md:text-white text-black font-medium text-xl md:p-3'>
+        <div className='flex md:items-center text-right justify-end md:justify-between bg-gray-700 md:text-white text-black font-medium text-xl md:p-3'>
             <div className='ml-10 md:block hidden'>
                 <Link to='/'><img className='w-12' src="logo.png" alt="" /></Link>
             </div>
